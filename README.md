@@ -37,7 +37,3 @@
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=heejung-gjt&show_icons=true&theme=tokyonight">
-  <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfkffkf115">
-</p>
