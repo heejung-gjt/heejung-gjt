@@ -35,5 +35,9 @@
 
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=heejung-gjt&show_icons=true&theme=tokyonight">
+
+</p>
 <br>
 
